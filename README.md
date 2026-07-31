@@ -91,7 +91,6 @@ The Tableau workbook (.twbx) uses linked actions across its dashboards, includin
 
 1. Open `ecommerce-2024-seasonality-dashboard.twbx` in Tableau Desktop or the free Tableau Reader to interact with the dashboards (filter by vendor, department, or month; hover for SKU detail).
 2. Open `ecommerce-2024-executive-presentation.pptx` for the full executive narrative and appendix.
-3. Optional: add your video walkthrough link here once uploaded, e.g. `[Video presentation](your-youtube-link)`
 
 ## Author
 
