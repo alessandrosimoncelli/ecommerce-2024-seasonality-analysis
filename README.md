@@ -83,14 +83,14 @@ The Tableau workbook (.twbx) uses linked actions across its dashboards, includin
 
 | File | Description |
 |---|---|
-| A1_-_Data_Visualization--SimoncelliAlessandro.pptx | 5-slide executive presentation plus appendix of dashboard screenshots |
-| A1_-_Data_Visualization_-_Simoncelli_Alessandro.twbx | Tableau Packaged Workbook, interactive dashboards with the data extract embedded (open in Tableau Desktop or Tableau Reader) |
-| README.md | This file: project summary, analysis walkthrough, and data documentation |
+| `ecommerce-2024-executive-presentation.pptx` | 5-slide executive presentation (overview, department strategy, vendor action plan, loss analysis, pricing collapse) plus an appendix of dashboard screenshots |
+| `ecommerce-2024-seasonality-dashboard.twbx` | Tableau Packaged Workbook with the interactive dashboards and embedded data extract; includes filter and hover actions across department, vendor, and SKU views |
+| `README.md` | Project summary, analysis walkthrough, and data documentation |
 
 ## How to Explore
 
-1. Open the .twbx in Tableau Desktop or the free Tableau Reader to interact with the dashboards (filter by vendor, department, or month; hover for SKU detail).
-2. Open the .pptx for the full executive narrative and appendix.
+1. Open `ecommerce-2024-seasonality-dashboard.twbx` in Tableau Desktop or the free Tableau Reader to interact with the dashboards (filter by vendor, department, or month; hover for SKU detail).
+2. Open `ecommerce-2024-executive-presentation.pptx` for the full executive narrative and appendix.
 3. Optional: add your video walkthrough link here once uploaded, e.g. `[Video presentation](your-youtube-link)`
 
 ## Author
