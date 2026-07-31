@@ -96,4 +96,3 @@ The Tableau workbook (.twbx) uses linked actions across its dashboards, includin
 ## Author
 
 Alessandro Simoncelli
-Hult International Business School, Master in Management / Master in Finance
