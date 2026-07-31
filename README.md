@@ -11,7 +11,6 @@ Executive data visualization project analyzing 2024 e-commerce performance for a
 Acting as the executive overseeing e-Commerce, the task was to analyze the retailer's 2024 performance and deliver 3 to 4 data-backed recommendations to drive sales and profitability, communicated through:
 - A 5-slide executive presentation, plus an appendix of dashboard screenshots
 - An interactive Tableau dashboard using at least two linked actions (filter, hover, or interactive reference lines)
-- A short video walkthrough of the presentation
 
 ## Key Findings
 
